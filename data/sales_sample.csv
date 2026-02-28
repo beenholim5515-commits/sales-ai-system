@@ -1,0 +1,31 @@
+order_id,date,region,salesperson,product,category,quantity,unit_price
+SO1001,2024-01-03,East,Alice,Laptop Pro,Electronics,2,1200
+SO1002,2024-01-05,North,Bob,Office Chair,Furniture,5,180
+SO1003,2024-01-08,South,Carol,Noise Cancelling Headset,Electronics,4,220
+SO1004,2024-01-12,West,David,Standing Desk,Furniture,3,450
+SO1005,2024-01-15,East,Eva,CRM Subscription,Software,10,95
+SO1006,2024-02-02,North,Alice,Wireless Mouse,Electronics,12,35
+SO1007,2024-02-07,South,Bob,Laptop Air,Electronics,3,980
+SO1008,2024-02-10,West,Carol,Monitor 27in,Electronics,6,260
+SO1009,2024-02-18,East,David,Project Management Suite,Software,8,140
+SO1010,2024-02-23,North,Eva,Office Desk,Furniture,4,320
+SO1011,2024-03-03,South,Alice,Cloud Storage Plan,Software,15,60
+SO1012,2024-03-08,West,Bob,Keyboard Mechanical,Electronics,10,90
+SO1013,2024-03-11,East,Carol,Ergonomic Chair,Furniture,6,210
+SO1014,2024-03-17,North,David,Video Conference Camera,Electronics,5,170
+SO1015,2024-03-25,South,Eva,Email Automation Tool,Software,9,120
+SO1016,2024-04-01,West,Alice,Desktop Workstation,Electronics,2,1500
+SO1017,2024-04-05,East,Bob,Webinar Platform,Software,7,160
+SO1018,2024-04-09,North,Carol,Bookshelf,Furniture,8,110
+SO1019,2024-04-16,South,David,Tablet Plus,Electronics,5,430
+SO1020,2024-04-22,West,Eva,Time Tracking App,Software,11,70
+SO1021,2024-05-03,East,Alice,Smartphone X,Electronics,6,760
+SO1022,2024-05-08,North,Bob,Reception Sofa,Furniture,2,980
+SO1023,2024-05-14,South,Carol,BI Analytics Tool,Software,6,210
+SO1024,2024-05-19,West,David,USB-C Dock,Electronics,9,140
+SO1025,2024-05-28,East,Eva,Training LMS,Software,5,280
+SO1026,2024-06-04,North,Alice,Printer Laser,Electronics,4,390
+SO1027,2024-06-10,South,Bob,Desk Lamp,Furniture,12,45
+SO1028,2024-06-15,West,Carol,SSD 1TB,Electronics,7,130
+SO1029,2024-06-21,East,David,Customer Support Suite,Software,6,190
+SO1030,2024-06-27,North,Eva,Conference Table,Furniture,3,620
